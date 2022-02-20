@@ -1,14 +1,14 @@
 # Bootstrap Icons PNG
 
-You can find [Bootstrap Icons](https://icons.getbootstrap.com/, "Link to Bootstrap Icons Page") in png format in this repository.
+You can find [Bootstrap Icons](https://icons.getbootstrap.com/ "Link to Bootstrap Icons Page") in png format in this repository.
 
-The png icons in this repository were generated using the [bi2png](https://clubelecinsset.github.io/bi2png/, "Link to bi2png") website.
+The png icons in this repository were generated using the [bi2png](https://clubelecinsset.github.io/bi2png/ "Link to bi2png") website.
 
 The icons in this repository are currently from Bootstrap Icons `v1.8.1`.
 
 ## Open Source License
 
--   Bootstrap Icons - [GitHub](https://github.com/twbs/icons, "Link to the GitHub Repository of Boostrap Icons")
+-   Bootstrap Icons - [GitHub](https://github.com/twbs/icons "Link to the GitHub Repository of Boostrap Icons")
     <details>
         <summary>MIT License</summary>
 
@@ -40,7 +40,7 @@ The icons in this repository are currently from Bootstrap Icons `v1.8.1`.
 
 ---
 
--   bi2png - [GitHub](https://github.com/ClubElecINSSET/bi2png, "Link to the GitHub Repository of bi2png")
+-   bi2png - [GitHub](https://github.com/ClubElecINSSET/bi2png "Link to the GitHub Repository of bi2png")
     <details>
         <summary>AGPL-3.0 License</summary>
 
